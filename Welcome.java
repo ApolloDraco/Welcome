@@ -1,5 +1,5 @@
 /* 
- *  Description: This application displays 'Welcome to Java!' in a message dialog box
+ *  Description: This application displays 'Welcome to Java!'
 */
 
 public class Welcome {
